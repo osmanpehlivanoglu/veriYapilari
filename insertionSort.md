@@ -12,7 +12,7 @@ O(n^2)
 ### Time Complexity
 
 Best Case : O(n)
-Worst Case: O(n^2)
+Worst Case: O(n^2)git remote -v
 Average Case: O(n^2)
 
 ### 18
